@@ -1,0 +1,10 @@
+##Bibtex citation
+
+@phdthesis{vidler2025agentic,
+  author       = {Alicia Vidler},
+  title        = {Agentic Intelligence in Financial Markets: A Multi-Agent System with Embedded LLMs for Bilateral Fixed Income Trading},
+  school       = {University of New South Wales},
+  year         = {2025},
+  month        = mar,
+  note         = {PhD dissertation, available at the University of New South Wales Library}
+}
